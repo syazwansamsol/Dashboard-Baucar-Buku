@@ -1,0 +1,6 @@
+{
+  "name": "Analisis Data Baucar Buku PPD Seremban 2027",
+  "description": "Papan Pemuka Interaktif Analisis Data Baucar Buku Madani PPD Seremban 2027 dengan visualisasi carta pai, graf bar, cadangan intervensi strategik, dan pembantu pantas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
